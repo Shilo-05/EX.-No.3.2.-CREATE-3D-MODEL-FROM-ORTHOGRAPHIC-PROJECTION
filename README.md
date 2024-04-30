@@ -42,7 +42,9 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
 ## OUTPUT:
-![rosh _page-0001 (3)](https://github.com/Shilo-05/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/139841664/521dc160-aba0-47ff-a014-54fc9f256a3c)
+
+![image](https://github.com/Shilo-05/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/139841664/30b0f720-ae98-4f3b-a3ee-d8e477afe86b)
+
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
